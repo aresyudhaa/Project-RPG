@@ -1,4 +1,5 @@
-﻿using System.Collections;
+// Coding Camera(FollowPlayer)
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
